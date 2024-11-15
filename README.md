@@ -1,0 +1,2 @@
+# leetcodeGO
+LeetcodeSolutions
